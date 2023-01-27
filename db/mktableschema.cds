@@ -7,7 +7,6 @@ using {
 
 namespace my.object;
 
-//@a
 entity ObjectData {
     key id                 : UUID            @odata.Type : 'Edm.String'  @Core.Computed;
         objectId           : String(200) not null ;
