@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^6",
+    "@sap/cds": "^8",
 <<<<<<< HEAD
     "express": "^4"
   },
@@ -29,7 +29,7 @@
 >>>>>>> 34d01aaf9871add451edc37c90152214017e4b7b
   },
   "engines": {
-    "node": "^16.15"
+    "node": "^23.0.0"
   },
   "eslintConfig": {
     "extends": "eslint:recommended",
